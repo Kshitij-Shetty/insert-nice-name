@@ -1,4 +1,3 @@
-# insert-nice-name
 # Chess
 
 It is an attempt at a 3-Dimensional Chess. It allows the pieces of the game to move in 3-dimensions, i.e. in any of the 3 planes, we can percieve.
